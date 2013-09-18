@@ -1,0 +1,785 @@
+{
+   "name":"Rijk",
+   "children":[
+      {
+         "name":"Staten Generaal ",
+         "children":[
+            {
+               "name":"Staten Generaal Wetgeving en controle Eerste Kamer",
+               "value":11589
+            },
+            {
+               "name":"Staten Generaal Uitgaven tbv van (oud) leden Tweede Kamer en leden EP",
+               "value":32206
+            },
+            {
+               "name":"Staten Generaal Wetgeving en controle Tweede Kamer",
+               "value":93051
+            },
+            {
+               "name":"Staten Generaal Wetgeving en controle Eerste en Tweede Kamer",
+               "value":2506
+            },
+            {
+               "name":"Staten Generaal Nominaal en onvoorzien",
+               "value":-1252
+            }
+         ]
+      },
+      {
+         "name":"Overige Hoge Colleges van Staat ",
+         "children":[
+            {
+               "name":"Overige Hoge Colleges van Staat Raad van State",
+               "value":59650
+            },
+            {
+               "name":"Overige Hoge Colleges van Staat Algemene Rekenkamer",
+               "value":29841
+            },
+            {
+               "name":"Overige Hoge Colleges van Staat De Nationale Ombudsman",
+               "value":15581
+            },
+            {
+               "name":"Overige Hoge Colleges van Staat Kanselarij der Nederlandse Orden",
+               "value":3999
+            },
+            {
+               "name":"Overige Hoge Colleges van Staat Kabinet van de Gouverneur van Aruba",
+               "value":1784
+            },
+            {
+               "name":"Overige Hoge Colleges van Staat Kabinet van de Gouverneur van Curaçao",
+               "value":2815
+            },
+            {
+               "name":"Overige Hoge Colleges van Staat Kabinet van de Gouverneur van Sint Maarten",
+               "value":2043
+            }
+         ]
+      },
+      {
+         "name":"Algemene Zaken ",
+         "children":[
+            {
+               "name":"Algemene Zaken Bevorderen eenheid regeringsbeleid",
+               "value":57085
+            },
+            {
+               "name":"Algemene Zaken Kabinet van de Koning",
+               "value":2331
+            },
+            {
+               "name":"Algemene Zaken Cie v. Toez. I&V",
+               "value":1076
+            }
+         ]
+      },
+      {
+         "name":"Koninkrijksrelaties ",
+         "children":[
+            {
+               "name":"Koninkrijksrelaties Waarborgfunctie",
+               "value":61821
+            },
+            {
+               "name":"Koninkrijksrelaties Bevord.autonomie Koninkrijkspartners",
+               "value":193709
+            },
+            {
+               "name":"Koninkrijksrelaties Nominaal en onvoorzien",
+               "value":1223
+            }
+         ]
+      },
+      {
+         "name":"Buitenlandse Zaken ",
+         "children":[
+            {
+               "name":"Buitenlandse Zaken Internationale rechtsorde en eerbiediging mensenrechten",
+               "value":106237
+            },
+            {
+               "name":"Buitenlandse Zaken Veiligheid en stabiliteit",
+               "value":273466
+            },
+            {
+               "name":"Buitenlandse Zaken Europese Samenwerking",
+               "value":7824896
+            },
+            {
+               "name":"Buitenlandse Zaken Consulaire belangenbehartiging",
+               "value":53291
+            },
+            {
+               "name":"Buitenlandse Zaken Geheim",
+               "value":31
+            },
+            {
+               "name":"Buitenlandse Zaken Nominaal en onvoorzien",
+               "value":67011
+            },
+            {
+               "name":"Buitenlandse Zaken Apparaat",
+               "value":744195
+            }
+         ]
+      },
+      {
+         "name":"Veiligheid en Justitie ",
+         "children":[
+            {
+               "name":"Veiligheid en Justitie Nationale Politie",
+               "value":5155411
+            },
+            {
+               "name":"Veiligheid en Justitie Rechtspleging en rechtsbijstand",
+               "value":1509230
+            },
+            {
+               "name":"Veiligheid en Justitie Veiligheid en criminaliteitsbestrijding",
+               "value":742753
+            },
+            {
+               "name":"Veiligheid en Justitie Sanctietoepassing",
+               "value":2271998
+            },
+            {
+               "name":"Veiligheid en Justitie Jeugd",
+               "value":738464
+            },
+            {
+               "name":"Veiligheid en Justitie Contraterrorisme en Nationaal Veiligheidsbeleid",
+               "value":253413
+            },
+            {
+               "name":"Veiligheid en Justitie Vreemdelingen",
+               "value":681201
+            },
+            {
+               "name":"Veiligheid en Justitie Apparaatsuitgaven kerndepartement",
+               "value":410369
+            },
+            {
+               "name":"Veiligheid en Justitie Nominaal en onvoorzien",
+               "value":41965
+            },
+            {
+               "name":"Veiligheid en Justitie Geheim",
+               "value":3057
+            }
+         ]
+      },
+      {
+         "name":"Binnenlandse Zaken ",
+         "children":[
+            {
+               "name":"Binnenlandse Zaken Openbaar bestuur en democratie",
+               "value":32629
+            },
+            {
+               "name":"Binnenlandse Zaken Algemene Inlichtingen- en Veiligheidsdienst",
+               "value":188892
+            },
+            {
+               "name":"Binnenlandse Zaken Dienstverlenende en innovatieve overheid",
+               "value":104758
+            },
+            {
+               "name":"Binnenlandse Zaken Arbeidszaken overheid",
+               "value":38897
+            },
+            {
+               "name":"Binnenlandse Zaken Centraal Apparaat",
+               "value":192827
+            },
+            {
+               "name":"Binnenlandse Zaken Algemeen",
+               "value":2164
+            },
+            {
+               "name":"Binnenlandse Zaken Nominaal en onvoorzien",
+               "value":1229
+            },
+            {
+               "name":"Binnenlandse Zaken VUT-fonds",
+               "value":70000
+            }
+         ]
+      },
+      {
+         "name":"Onderwijs, Cultuur en Wetenschap ",
+         "children":[
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Primair onderwijs",
+               "value":9555294
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Voortgezet onderwijs",
+               "value":7229225
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Beroepsonderwijs en volwasseneneducatie",
+               "value":3802465
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Hoger beroepsonderwijs",
+               "value":2576472
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Wetenschappelijk onderwijs",
+               "value":4033802
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Internationaal onderwijsbeleid",
+               "value":13421
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Arbeidsmarkt en personeelsbeleid",
+               "value":386420
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Studiefinanciering",
+               "value":4231184
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Tegemoetkoming studiekosten",
+               "value":114872
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Lesgelden",
+               "value":7012
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Cultuur",
+               "value":720522
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Media",
+               "value":977571
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Onderzoek en wetenschappen",
+               "value":895771
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Emancipatie",
+               "value":14792
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Nominaal en onvoorzien",
+               "value":5367
+            },
+            {
+               "name":"Onderwijs, Cultuur en Wetenschap Apparaatskosten",
+               "value":234723
+            }
+         ]
+      },
+      {
+         "name":"Nationale Schuld ",
+         "children":[
+            {
+               "name":"Nationale Schuld Financiering staatsschuld",
+               "value":41562811
+            },
+            {
+               "name":"Nationale Schuld Kasbeheer",
+               "value":7178511
+            }
+         ]
+      },
+      {
+         "name":"Financiën ",
+         "children":[
+            {
+               "name":"Financiën Belastingen",
+               "value":3297439
+            },
+            {
+               "name":"Financiën Financiele Markten",
+               "value":57004
+            },
+            {
+               "name":"Financiën Financ. act. Publiek-Private sector",
+               "value":1652866
+            },
+            {
+               "name":"Financiën Internationale Fin. Betrekkingen",
+               "value":1119514
+            },
+            {
+               "name":"Financiën Exportkrediet- en investeringsverzekering",
+               "value":110006
+            },
+            {
+               "name":"Financiën BTW-Compensatiefonds",
+               "value":2816420
+            },
+            {
+               "name":"Financiën Beheer materiele activa",
+               "value":306
+            },
+            {
+               "name":"Financiën Nominaal en onvoorzien",
+               "value":3425
+            },
+            {
+               "name":"Financiën Centraal Apparaat",
+               "value":204688
+            }
+         ]
+      },
+      {
+         "name":"Defensie ",
+         "children":[
+            {
+               "name":"Defensie Opdracht Inzet",
+               "value":6250
+            },
+            {
+               "name":"Defensie Taakuitvoering Zeestrijdkrachten",
+               "value":693849
+            },
+            {
+               "name":"Defensie Taakuitvoering Landstrijdkrachten",
+               "value":1108639
+            },
+            {
+               "name":"Defensie Taakuitvoering Luchtstrijdkrachten",
+               "value":637987
+            },
+            {
+               "name":"Defensie Taakuitvoering Koninklijke Marechaussee",
+               "value":311529
+            },
+            {
+               "name":"Defensie Investeringen Krijgsmacht",
+               "value":1192309
+            },
+            {
+               "name":"Defensie Ondersteuning krijgsmacht door Defensie Materieel Org",
+               "value":814171
+            },
+            {
+               "name":"Defensie Ondersteuning krijgsmacht door Cdo Dienstencentra",
+               "value":972277
+            },
+            {
+               "name":"Defensie Algemeen",
+               "value":113716
+            },
+            {
+               "name":"Defensie Centraal apparaat",
+               "value":1698315
+            },
+            {
+               "name":"Defensie Geheime uitgaven",
+               "value":5264
+            },
+            {
+               "name":"Defensie Nominaal en onvoorzien",
+               "value":47727
+            }
+         ]
+      },
+      {
+         "name":"Infrastructuur en Milieu ",
+         "children":[
+            {
+               "name":"Infrastructuur en Milieu Waterkwantiteit",
+               "value":39731
+            },
+            {
+               "name":"Infrastructuur en Milieu Waterkwaliteit",
+               "value":85558
+            },
+            {
+               "name":"Infrastructuur en Milieu Ruimtelijke Ontwikkeling",
+               "value":105979
+            },
+            {
+               "name":"Infrastructuur en Milieu Wegen en verkeersveiligheid",
+               "value":33119
+            },
+            {
+               "name":"Infrastructuur en Milieu Openbaar vervoer",
+               "value":7531
+            },
+            {
+               "name":"Infrastructuur en Milieu Spoor",
+               "value":24424
+            },
+            {
+               "name":"Infrastructuur en Milieu Luchtvaart",
+               "value":34291
+            },
+            {
+               "name":"Infrastructuur en Milieu Scheepvaart",
+               "value":5303
+            },
+            {
+               "name":"Infrastructuur en Milieu Klimaat",
+               "value":59422
+            },
+            {
+               "name":"Infrastructuur en Milieu Lucht en geluid",
+               "value":49383
+            },
+            {
+               "name":"Infrastructuur en Milieu Duurzaamheid",
+               "value":13530
+            },
+            {
+               "name":"Infrastructuur en Milieu Externe veiligheid en risico's",
+               "value":28134
+            },
+            {
+               "name":"Infrastructuur en Milieu Meteorologie, seismologie en aardobservatie",
+               "value":33926
+            },
+            {
+               "name":"Infrastructuur en Milieu Handhaving en toezicht",
+               "value":129559
+            },
+            {
+               "name":"Infrastructuur en Milieu Bijdrage BDU",
+               "value":1819189
+            },
+            {
+               "name":"Infrastructuur en Milieu Bijdrage investeringsfondsen",
+               "value":7452327
+            },
+            {
+               "name":"Infrastructuur en Milieu Algemeen departement",
+               "value":27206
+            },
+            {
+               "name":"Infrastructuur en Milieu Apparaatsuitgaven Kerndepartement",
+               "value":319700
+            },
+            {
+               "name":"Infrastructuur en Milieu Nominaal en onvoorzien",
+               "value":-14543
+            }
+         ]
+      },
+      {
+         "name":"Economische Zaken ",
+         "children":[
+            {
+               "name":"Economische Zaken Goed functionerende economie en markten",
+               "value":197794
+            },
+            {
+               "name":"Economische Zaken Een sterk innovatievermogen",
+               "value":814790
+            },
+            {
+               "name":"Economische Zaken Een excellent ondernemingsklimaat",
+               "value":319466
+            },
+            {
+               "name":"Economische Zaken Een doelmatige en duurzame energievoorziening",
+               "value":1538633
+            },
+            {
+               "name":"Economische Zaken Een concurr., duurz.en veilige agro-, viss.- en voedeselket.",
+               "value":565726
+            },
+            {
+               "name":"Economische Zaken Groen onderwijs van hoge kwaliteit",
+               "value":795701
+            },
+            {
+               "name":"Economische Zaken Natuur, regio en ruimte",
+               "value":432349
+            },
+            {
+               "name":"Economische Zaken Apparaat",
+               "value":367581
+            },
+            {
+               "name":"Economische Zaken Nominaal en onvoorzien",
+               "value":250
+            }
+         ]
+      },
+      {
+         "name":"Sociale Zaken en Werkgelegenheid ",
+         "children":[
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Arbeidsmarkt",
+               "value":19665
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Bijstand, Toeslagenwet en Sociale werkvoorziening",
+               "value":10578354
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Arbeidsongeschiktheid",
+               "value":649
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Jonggehandicapten",
+               "value":2952962
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Werkloosheid",
+               "value":32444
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Ziekte en zwangerschap",
+               "value":6805
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Kinderopvang",
+               "value":2402197
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Oudedagsvoorziening",
+               "value":1053343
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Nabestaanden",
+               "value":964
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Tegemoetkoming ouders",
+               "value":4486790
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Uitvoeringskosten",
+               "value":481338
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Rijksbijdragen",
+               "value":11102706
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Integratie en maatschappelijke samenhang",
+               "value":121521
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Apparaat",
+               "value":285829
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Algemeen",
+               "value":48804
+            },
+            {
+               "name":"Sociale Zaken en Werkgelegenheid Nominaal en onvoorzien",
+               "value":181517
+            }
+         ]
+      },
+      {
+         "name":"Volksgezondheid, Welzijn en Sport ",
+         "children":[
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Volksgezondheid",
+               "value":497952
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Curatieve Zorg",
+               "value":2733958
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Maatschappelijke Ondersteuning en Langdurige Zorg",
+               "value":4193291
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Zorgbreed Beleid",
+               "value":697717
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Jeugd",
+               "value":1551126
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Sport en Bewegen",
+               "value":132421
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Oorlogsgetroffenen en Herinneringen Tweede Wereldoorlog",
+               "value":327802
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Tegemoetkoming Specifieke Kosten",
+               "value":4466171
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Algemeen",
+               "value":30748
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Apparaatsuitgaven",
+               "value":222775
+            },
+            {
+               "name":"Volksgezondheid, Welzijn en Sport Nominaal en Onvoorzien",
+               "value":-36814
+            }
+         ]
+      },
+      {
+         "name":"Buitenlandse Handel & Ontwikkelingssamenwerking ",
+         "children":[
+            {
+               "name":"Buitenlandse Handel & Ontwikkelingssamenwerking Duurzame handel en investeringen",
+               "value":463256
+            },
+            {
+               "name":"Buitenlandse Handel & Ontwikkelingssamenwerking Duurzame ontwikkeling, voedselzekerheid en water",
+               "value":581953
+            },
+            {
+               "name":"Buitenlandse Handel & Ontwikkelingssamenwerking Sociale vooruitgang",
+               "value":985987
+            },
+            {
+               "name":"Buitenlandse Handel & Ontwikkelingssamenwerking Vrede en veiligheid voor ontwikkeling",
+               "value":685469
+            },
+            {
+               "name":"Buitenlandse Handel & Ontwikkelingssamenwerking Versterkte kaders voor ontwikkeling",
+               "value":79011
+            }
+         ]
+      },
+      {
+         "name":"Wonen & Rijksdienst ",
+         "children":[
+            {
+               "name":"Wonen & Rijksdienst Woningmarkt",
+               "value":3031676
+            },
+            {
+               "name":"Wonen & Rijksdienst Woonomgeving en bouw",
+               "value":176384
+            },
+            {
+               "name":"Wonen & Rijksdienst Kwaliteit Rijksdienst",
+               "value":17896
+            },
+            {
+               "name":"Wonen & Rijksdienst Uitvoering rijksvastgoedbeleid",
+               "value":144826
+            }
+         ]
+      },
+      {
+         "name":"De Koning ",
+         "children":[
+            {
+               "name":"De Koning UITKERING LEDEN KONINKLIJK HUIS",
+               "value":7614
+            },
+            {
+               "name":"De Koning Functionele uitgaven van de Koning",
+               "value":26779
+            },
+            {
+               "name":"De Koning Doorbelaste uitgaven van andere begrotingen",
+               "value":5594
+            }
+         ]
+      },
+      {
+         "name":"Infrafonds ",
+         "children":[
+            {
+               "name":"Infrafonds Hoofdwegennet",
+               "value":2800084
+            },
+            {
+               "name":"Infrafonds Railwegen",
+               "value":2397939
+            },
+            {
+               "name":"Infrafonds Regionaal, lokale infra",
+               "value":241969
+            },
+            {
+               "name":"Infrafonds Hoofdvaarwegennet",
+               "value":895163
+            },
+            {
+               "name":"Infrafonds Megaprojecten Verkeer en Vervoer",
+               "value":24368
+            },
+            {
+               "name":"Infrafonds Overige uitgaven en ontvangsten",
+               "value":235032
+            },
+            {
+               "name":"Infrafonds Bijdrage andere begrotingen Rijk",
+               "value":0
+            }
+         ]
+      },
+      {
+         "name":"Gemeentefonds ",
+         "children":[
+            {
+               "name":"Gemeentefonds Gemeentefonds",
+               "value":18381232
+            }
+         ]
+      },
+      {
+         "name":"Provinciefonds ",
+         "children":[
+            {
+               "name":"Provinciefonds Provinciefonds",
+               "value":1171987
+            }
+         ]
+      },
+      {
+         "name":"Diergezondheidfonds ",
+         "children":[
+            {
+               "name":"Diergezondheidfonds Bewaking en bestrijding van dierziekten",
+               "value":10900
+            }
+         ]
+      },
+      {
+         "name":"BES-fonds ",
+         "children":[
+            {
+               "name":"BES-fonds BES-fonds",
+               "value":32709
+            }
+         ]
+      },
+      {
+         "name":"Deltafonds ",
+         "children":[
+            {
+               "name":"Deltafonds Investeren in waterveiligheid",
+               "value":827890
+            },
+            {
+               "name":"Deltafonds Investeren in zoetwatervoorziening",
+               "value":3863
+            },
+            {
+               "name":"Deltafonds Beheer, Onderhoud en vervanging",
+               "value":176257
+            },
+            {
+               "name":"Deltafonds Netwerkgebonden kosten en overige uitgaven",
+               "value":222828
+            },
+            {
+               "name":"Deltafonds Bijdrage ten laste van begroting Hoofdstuk XII",
+               "value":0
+            }
+         ]
+      }
+   ]
+}
